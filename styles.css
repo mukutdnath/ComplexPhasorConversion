@@ -1,0 +1,43 @@
+h2{
+  font-weight: normal;
+}
+
+h3{
+  font-weight: normal;
+}
+
+footer{
+  text-align: center;
+}
+
+.footer{
+  text-decoration: none;
+  color: black;
+}
+
+.footer:hover{
+  color: #001D6E;
+}
+.container{
+  padding: 2rem;
+}
+
+.col-left{
+  text-align: right;
+}
+
+.col-right{
+  text-align: left;
+}
+
+#heading{
+  text-align: center;
+  font-size: 3rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.subheading{
+  text-align: center;
+  padding: 2rem;
+}
